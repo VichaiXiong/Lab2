@@ -151,7 +151,6 @@ def drawSquare(myTurtle, sideLength):
 def drawFlower(numSquares):
     for i in range(numSquares):
         drawSquare(t, 100)
-        t.right(60)
 
    
  
