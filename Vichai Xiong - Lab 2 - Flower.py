@@ -175,7 +175,7 @@ t = turtle.Turtle()
 #drawSquare10(t, 100)
 #drawSquare11(t, 100)
 #drawSquare12(t, 100)
-drawFlower(13)
+drawFlower(12)
 
 x = ""
 input(x)
